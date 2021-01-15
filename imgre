@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title> Hello World </title>
+  </head>
+  <body>
+    <h1 style="text-align:center;">HELLO MSURSHIMA, ANTHONY LOVES YOU</h1>
+    <p> And i am building this page in Html to tell you to go to bed because you're working tomorrow <br/> Please drop your phone and leave instagram and go to sleep</p>
+    <h2 style="text-align:center;"> RIGHT NOW!!!!!! </h2>
+    <p> I am going to add a line break below this tag just to show how easy it is to learn html </p>
+    <hr />
+    <h1 style="text-align:center;"> A PICTURE OF YOU SHOULD APPEAR BENEATH THIS </h1>
+    <hr / >
+    <p> But i'm using codepen.io and i don't know how to use the img tag here without utilizing the src method.
+      <ul>
+        <li>Here is an unordered list</li>
+        <li> This is so cool</li>
+        <li> I am going to hack nasa soon</li>
+          
+      </ul>
+    <ol>
+      <li> Here is an ordered list </li>
+      <li> Html is actually pretty cool</li>
+      <li>Now lets move to css</li>
+      <li> lol jk </li>
+    </ol>
+    <h1 style="text-align:center;"> WHAT DO YOU THINK ABOUT THIS? <br /> I JUST LEARNT IT NOW AND MADE MY OWN VERSION. </h1>
+    <hr / >
+  </body>
+  </html>
